@@ -1,3 +1,4 @@
+This is a game application made using unity.
 For assignment 3:
 S to start Orbit and A to stop orbit
 H to stop rotation and SPACE to start it.
